@@ -1,0 +1,51 @@
+.losmalos {
+    background-color: red
+}
+.stormmalo{
+    background-color: red;
+}
+.caminante {
+    background-color: red
+}
+.fighter {
+    background-color: red
+}
+.rebelde1 {
+    background-color: blue;
+}
+.rebelde2 {
+    background-color: blue
+}
+.bot1 {
+    background-color: blue;
+}
+.bot2 {
+    background-color: blue;
+}
+.bot3 {
+    background-color: blue;
+}
+#darthvader {
+    font-size: 50px
+}
+#luke {
+    font-style: italic;
+}
+.stormmalo {
+    border: 20px dotted black;
+}
+.stormmalo {
+    letter-spacing: 15px;
+}
+.apoyo {
+    text-align: center;
+}
+.tanque {
+    font-style: italic;
+}
+.halcon {
+    font-style: italic;
+}
+.wing {
+    font-style: italic;
+}
